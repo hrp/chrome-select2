@@ -30,4 +30,8 @@ function(   $,        config,   messaging,        client) {
     });
   });
 
+  $(function() {
+    $('select').select2();
+  });
+
 });
