@@ -1,8 +1,8 @@
 {
-  "name": "Select2 for Chrome",
-  "version": "0.2.0",
+  "name": "Select2 for for Google Chrome™",
+  "version": "0.2.2",
   "manifest_version": 2,
-  "description": "Improve select form boxes in Chrome with Select2 library",
+  "description": "Improve select form boxes with Select2 library",
   "icons": {
     "128": "images/icon.png"
   },
